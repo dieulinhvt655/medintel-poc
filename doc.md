@@ -226,26 +226,6 @@ Flutter Mobile App
 PostgreSQL   AI Service    Storage
               (OCR+LLM)
 
-✅ Stack này rất hợp với đề tài của bạn vì:
-
-Flutter → mobile healthcare
-FastAPI → AI integration
-PostgreSQL → medical data
-OCR + LLM → AI healthcare assistant
-
-💡 Nếu bạn muốn, mình có thể viết luôn:
-
-System Architecture Diagram (rất đẹp cho CHƯƠNG 4)
-MedIntel microservice architecture
-API design (REST endpoints)
-AI pipeline (OCR → LLM → RAG)
-
-→ để đồ án của bạn trông như một startup AI y tế thật.
-
-mô tả ngắn gọn lại
-
-Dưới đây là mô tả ngắn gọn frontend và backend cho hệ thống MedIntel:
-
 Frontend (Mobile App)
 
 Ứng dụng di động được phát triển bằng Flutter, cho phép xây dựng một mã nguồn chạy trên cả Android và iOS. Flutter được sử dụng để thiết kế giao diện thân thiện với người dùng, hỗ trợ các chức năng như quét đơn thuốc, quản lý lịch uống thuốc, nhắc nhở uống thuốc và tương tác với chatbot AI. Quản lý trạng thái ứng dụng có thể sử dụng Riverpod để đảm bảo hiệu năng và cấu trúc code rõ ràng.
@@ -262,12 +242,6 @@ Frontend: Flutter (mobile app cho bệnh nhân)
 Backend: FastAPI (REST API server)
 Database: PostgreSQL
 AI: OCR + AI chatbot hỗ trợ tư vấn và giải thích thuốc
-
-Nếu cần, mình cũng có thể viết phiên bản 4–5 dòng chuẩn học thuật để đưa thẳng vào báo cáo Chương 4 (giảng viên thường thích kiểu đó hơn).
-
-viết doc.md 
-
-Dưới đây là file doc.md ngắn gọn và chuẩn để đưa vào repo hoặc phụ lục đồ án. Mình viết theo format GitHub README / technical doc để nhìn chuyên nghiệp hơn.
 
 # MedIntel System Documentation
 
